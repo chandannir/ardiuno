@@ -1,4 +1,4 @@
-# ardiuno
+# arduino 
 
 This repo contains code for my projets for my course TEJ2O. The projects codes use ardiuno uno R3.
 
