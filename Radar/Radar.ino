@@ -20,6 +20,8 @@ byte leds = 0;
 
 bool canSpin = true;
 
+// hello 
+
 unsigned long previousMillis = 0;
 
 const long intervalFar = 250;
